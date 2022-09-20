@@ -11,13 +11,13 @@
 - [Active Directory Home Lab](https://github.com/johnZhinin/LabURL)
 
 
-<h2>📃 Certification </h2>
+<h2>📃 Certification</h2>
 
 - [Comptia Security+](https://www.youtube.com/)
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Active Directory Home Lab](https://www.youtube.com/channel/UCFjDmANTCCHvtBMM6lSKpjQ))
+- [Active Directory Home Lab](https://www.youtube.com/channel/UCFjDmANTCCHvtBMM6lSKpjQ)
 
 <h2> 🤳 Connect with me:</h2>
 
