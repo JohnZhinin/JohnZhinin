@@ -1,6 +1,6 @@
 <h1>Hi, I'm John! </h1>
 
-[<img align="center" alt="JoshMadakor | Tryhackme" width="250px" src="https://tryhackme-badges.s3.amazonaws.com/Mercs.png" />][Tryhackme]<br/>
+[<img align="center" alt="Mercs | Tryhackme" width="250px" src="https://tryhackme-badges.s3.amazonaws.com/Mercs.png" />][Tryhackme]<br/>
 
 [TryHackMe]: https://tryhackme.com/p/Mercs
 
@@ -17,13 +17,13 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Active Directory Home Lab](https://www.youtube.com/)
+- [Active Directory Home Lab](https://www.youtube.com/channel/UCFjDmANTCCHvtBMM6lSKpjQ))
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][Youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | HackTheBox" width="22px" src="https://media.glassdoor.com/sql/3278909/hack-the-box-squarelogo-1593684696335.png" />][Hackthebox]
+[<img align="left" alt="CyberSecZ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][Youtube]
+[<img align="left" alt="JohnZhinin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SilentjayB | HackTheBox" width="22px" src="https://media.glassdoor.com/sql/3278909/hack-the-box-squarelogo-1593684696335.png" />][Hackthebox]
 
 [youtube]: https://www.youtube.com/channel/UCFjDmANTCCHvtBMM6lSKpjQ
 [linkedin]: https://www.linkedin.com/in/JohnZhinin
