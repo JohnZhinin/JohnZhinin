@@ -1,4 +1,7 @@
 <h1>Hi, I'm John! </h1>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Mercs.png" alt="TryHackMe">
+
+
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
