@@ -1,8 +1,11 @@
 <h1>Hi, I'm John! </h1>
 
-[<img align="left" alt="JoshMadakor | Tryhackme" width="250px" src="https://tryhackme-badges.s3.amazonaws.com/Mercs.png"  />][Tryhackme]
+[<img align="left" alt="JoshMadakor | Tryhackme" width="250px" src="https://tryhackme-badges.s3.amazonaws.com/Mercs.png" />][Tryhackme]
 
 [TryHackMe]: https://tryhackme.com/p/Mercs
+
+
+
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
