@@ -1,5 +1,8 @@
 <h1>Hi, I'm John! </h1>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Mercs.png" alt="TryHackMe">
+
+[<img align="left" alt="JoshMadakor | Tryhackme" width="22px" src="https://tryhackme.com/badge/764253" />][Tryhackme]
+
+[Tryhackme]: https://tryhackme.com/p/Mercs
 
 
 
