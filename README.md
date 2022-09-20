@@ -16,9 +16,8 @@
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="JoshMadakor | HackTheBox" width="22px" src="https://media.glassdoor.com/sql/3278909/hack-the-box-squarelogo-1593684696335.png" />][Hackthebox]
 
 [youtube]: https://www.youtube.com/channel/UCFjDmANTCCHvtBMM6lSKpjQ
 [linkedin]: https://www.linkedin.com/in/JohnZhinin
-
-
+[Hackthebox]: https://app.hackthebox.com/profile/1148421
