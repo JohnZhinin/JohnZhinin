@@ -2,6 +2,7 @@
 
 <img align="left" alt="JoshMadakor | Tryhackme" width="250px" src="https://tryhackme-badges.s3.amazonaws.com/Mercs.png" />
 
+[TryHackMe]: https://tryhackme.com/p/Mercs
 
 
 
