@@ -41,4 +41,4 @@
 [youtube]: https://www.youtube.com/channel/UCFjDmANTCCHvtBMM6lSKpjQ
 [linkedin]: https://www.linkedin.com/in/JohnZhinin
 [Hackthebox]: https://app.hackthebox.com/profile/1148421
-["TryHackMe"]: https://tryhackme.com/p/Mercs
+
