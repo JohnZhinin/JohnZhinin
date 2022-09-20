@@ -19,7 +19,6 @@
 
 
 [youtube]: https://www.youtube.com/c/joshmadakor
-[linkedin]:https://www.linkedin.com/in/ 
-zhinin-john
+[linkedin]:https://www.linkedin.com/in/zhinin-john
 
 
