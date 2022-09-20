@@ -1,6 +1,8 @@
 <h1>Hi, I'm John! </h1>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Mercs.png" alt="TryHackMe">
+[<img align="left" alt="JoshMadakor | Tryhackme" width="22px" src="https://tryhackme-badges.s3.amazonaws.com/Mercs.png" />][tryhackme]
+
+[TryHackMe]: https://tryhackme.com/p/Mercs
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
@@ -23,4 +25,4 @@
 [youtube]: https://www.youtube.com/channel/UCFjDmANTCCHvtBMM6lSKpjQ
 [linkedin]: https://www.linkedin.com/in/JohnZhinin
 [Hackthebox]: https://app.hackthebox.com/profile/1148421
-[TryHackMe]: https://tryhackme.com/p/Mercs
+["TryHackMe"]: https://tryhackme.com/p/Mercs
