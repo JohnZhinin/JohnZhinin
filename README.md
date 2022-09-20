@@ -1,10 +1,6 @@
 <h1>Hi, I'm John! </h1>
 
-[<img align="left" alt="JoshMadakor | Tryhackme" width="22px" src="https://tryhackme.com/badge/764253" />][Tryhackme]
-
-[Tryhackme]: https://tryhackme.com/p/Mercs
-
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/Mercs.png" alt="TryHackMe">
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
@@ -20,10 +16,11 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][Youtube]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | HackTheBox" width="22px" src="https://media.glassdoor.com/sql/3278909/hack-the-box-squarelogo-1593684696335.png" />][Hackthebox]
 
 [youtube]: https://www.youtube.com/channel/UCFjDmANTCCHvtBMM6lSKpjQ
 [linkedin]: https://www.linkedin.com/in/JohnZhinin
 [Hackthebox]: https://app.hackthebox.com/profile/1148421
+[TryHackMe]: https://tryhackme.com/p/Mercs
